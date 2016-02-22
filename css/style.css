@@ -7,8 +7,8 @@ li{
 	margin-left:10%
 	}
 .box{
-	margin-left: 150px;
-	margin-right: 150px;
+        margin: auto;
+	width: 600px;
 	background-color: white;
 	align-items: center;
 }
